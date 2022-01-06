@@ -1,0 +1,13 @@
+T1A1_ExplicaciónPermisos.txt 
+permisos para directorios (Carpetas)
+
+Lectura:Permite.
+visualizar el contenido
+del directorio.
+
+Escritura:Permite crear.
+eliminar archivo y
+directorios dentro de ese directorio.
+
+Ejecución:Permite
+entrar al directorio
